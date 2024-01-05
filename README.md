@@ -1,1 +1,1 @@
-# MIPT Graph Algorythms course 
+# Algorythms on graphs course
